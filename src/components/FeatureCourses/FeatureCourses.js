@@ -14,6 +14,7 @@ const FeatureCourses = () => {
             .then(res => res.json())
             .then(data => setCourses(data))
     }, [])
+    // Slicing the array found from fake data to show some of the courses 
     const slicedCourses = courses.slice(1, 5);
     console.log(slicedCourses);
     return (
@@ -27,7 +28,7 @@ const FeatureCourses = () => {
                             <div className="row text-lg-start text-sm-center">
                                 <div className="col-lg-5">
                                     <div className="course-card-img">
-                                        <img height="316px" width="475px" src={course.img} alt="" />
+                                        <img height="316px" width="470px" src={course.img} alt="" />
                                     </div>
                                 </div>
                                 <div className="col-lg-7">
@@ -40,7 +41,7 @@ const FeatureCourses = () => {
                                         <h6>Category: {course.category}</h6>
                                         <h6>Course Fee: $ {course.fee}</h6>
                                         <NavLink
-                                            // to={`/coursedetail/${key}`}
+
                                             to="/home">
                                             <Button className="btn-main">See Details</Button>
 

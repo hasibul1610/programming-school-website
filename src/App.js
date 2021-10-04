@@ -4,10 +4,8 @@ import './App.css';
 import Courses from './components/Courses/Courses';
 import Home from './components/Home/Home';
 import NotFound from './components/NotFound/NotFound';
-
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
-import CourseDetail from './components/CourseDetail/CourseDetail';
 import About from './components/About/About';
 import Contact from './components/Contact/Contact';
 
@@ -28,9 +26,6 @@ function App() {
           </Route>
           <Route exact path="/courses">
             <Courses></Courses>
-          </Route>
-          <Route exact path="/coursedetail/:id">
-            <CourseDetail></CourseDetail>
           </Route>
           <Route exact path="/contact">
             <Contact></Contact>

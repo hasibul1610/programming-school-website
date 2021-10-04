@@ -29,7 +29,7 @@ const Footer = () => {
 
                         </div>
                         <div className="footer-top-right col-lg-5">
-                            <h2>Stay Updated</h2>
+                            <h2>Be Connected</h2>
                             <div className="footer-top-right-social">
                                 <div className="d-flex">
                                     <img className="mx-2 " width="60px" src={facebook} alt="" />

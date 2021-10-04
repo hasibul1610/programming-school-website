@@ -12,17 +12,19 @@ import Button from 'react-bootstrap/Button'
 const Course = (props) => {
     const element = <FontAwesomeIcon icon={faClock} />
 
-    const { key, img, name, duration, instructor, fee, category } = props.course;
+    const { img, name, duration, instructor, fee, category } = props.course;
     return (
         <div>
+            {/* Individual Course Section  */}
             <Container>
                 <div className="card-container">
                     <div className="row text-lg-start text-sm-center">
                         <div className="col-lg-5">
                             <div className="course-card-img">
-                                <img height="316px" width="475px" src={img} alt="" />
+                                <img height="316px" width="470px" src={img} alt="" />
                             </div>
                         </div>
+
                         <div className="col-lg-7">
                             <div className="course-card-deatils">
                                 <h2 className="pt-4 pb-3">{name}</h2>
@@ -33,7 +35,7 @@ const Course = (props) => {
                                 <h6>Category: {category}</h6>
                                 <h6>Course Fee: $ {fee}</h6>
                                 <NavLink
-                                    // to={`/coursedetail/${key}`}
+
                                     to="/home">
                                     <Button className="btn-main">See Details</Button>
 

@@ -6,9 +6,11 @@ import Button from 'react-bootstrap/Button';
 const About = () => {
     return (
         <div>
+            {/* About Section Heading  */}
             <div className="about-us-header text-center">
                 <h1>We share knowledge with the world</h1>
             </div>
+            {/* Counter Section  */}
             <div className="about-us-count">
                 <div className="container">
                     <h1>We Just Keep Growing</h1>
@@ -51,6 +53,7 @@ const About = () => {
                 </div>
             </div>
             <br />
+            {/* About us Card Section  */}
             <div className="container">
                 <div className="about-us-cards">
                     <div className="row g-5">
