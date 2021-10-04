@@ -1,0 +1,44 @@
+.about-us-header h1{
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-weight: 900;
+}
+.about-us-count{
+    background-color: #232637;
+    padding: 30px 0px;
+}
+.about-us-count h1{
+    color: white;
+    margin-bottom: 20px;
+    font-size: 35px;
+    text-align: center;
+}
+.counters h2{
+    font-size: 40px;
+    font-weight: 900;
+}
+.about-us-cards{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.about-us-card-1{
+    background-color: #A435F0;
+    padding: 25px;
+    color: white;
+    border-radius: 15px;
+    height: 450px;
+}
+.about-us-card-2{
+    background-color: #DDDB36;
+    padding: 25px;
+    border-radius: 15px;
+    height: 450px;
+}
+.about-us-card-3{
+    background-color: #2D907F;
+    padding: 25px;
+    color: white;
+    border-radius: 15px;
+    height: 450px;
+}

@@ -1,0 +1,112 @@
+[
+    {
+        "key": 1,
+        "name": "Elementor & Shopify",
+        "category": "Web Design",
+        "topic": "Wordpress, Elementor",
+        "instructor": "Alomgir Hossain",
+        "duration": "3 Months",
+        "fee": 150,
+        "description": "Through this course we will be able to know the market demanded content of Shopify and Elementor and with our support students will be able to easily and successfully solve any problem related to client communication and project in the marketplace in just 3 months.",
+        "img": "https://cdn.shopify.com/shopifycloud/brochure/assets/facebook/share-a787fec7b29af691e09f7c6c326dec5544365d370f2870c32477bae9e72241fb.jpg"
+    },
+    {
+        "key": 2,
+        "name": "Frontend Design",
+        "category": "Web Design",
+        "topic": "HTML, CSS, Javascript, Bootstrap",
+        "instructor": "Arif Hossain",
+        "duration": "2 Months",
+        "fee": 100,
+        "description": "By learning this course we will create a landing page and a personal portfolio with HTML, CSS. We will easily create an agency website using CSS pre-processor SASS. After learning all the basics of JavaScript, We will solve various problems of JavaScript and in the interview as a front-end developer, I will discuss in detail what can be done about JavaScript.",
+        "img": "https://cdn.mos.cms.futurecdn.net/kTU4FVYE9YuWFjsQiLCCLS-320-80.jpg"
+    },
+    {
+        "key": 3,
+        "name": "Lead Generation",
+        "category": "Lead Generation",
+        "topic": "Lead Generation",
+        "instructor": "Asif Hemal",
+        "duration": "4 Months",
+        "fee": 80,
+        "description": "Through this course we will be able to know the market demanded contents of Lead Generation and with our support students will be able to easily and successfully solve any problem related to client communication and project in the marketplace and in just 3 months.",
+        "img": "https://st2.depositphotos.com/1038076/8152/i/600/depositphotos_81528890-stock-photo-lead-generation.jpg"
+    },
+    {
+        "key": 4,
+        "name": "Python for Everybody",
+        "category": "Programming",
+        "topic": "Python",
+        "instructor": "Jhankar Mahbub",
+        "duration": "2 Months",
+        "fee": 99,
+        "description": "This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python.  The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. This course will cover Chapters 1-5 of the textbook “Python for Everybody”.  Once a student completes this course, they will be ready to take more advanced programming courses. This course covers Python 3.",
+        "img": "https://miro.medium.com/max/840/1*RJMxLdTHqVBSijKmOO5MAg.jpeg"
+    },
+    {
+        "key": 5,
+        "name": "Java Programming and Software Engineering",
+        "category": "Programming",
+        "topic": "JAVA",
+        "instructor": "Anisul Islam",
+        "duration": "1 Months",
+        "fee": 69,
+        "description": "Take your first step towards a career in software development with this introduction to Java—one of the most in-demand programming languages and the foundation of the Android operating system. Designed for beginners, this Specialization will teach you core programming concepts and equip you to write programs to solve complex problems. In addition, you will gain the foundational skills a software engineer needs to solve real-world problems, from designing algorithms to testing and debugging your programs.",
+        "img": "https://5.imimg.com/data5/QQ/CT/AO/GLADMIN-25397883/selection-064-500x500.png"
+    },
+    {
+        "key": 6,
+        "name": "Computer Vision with Embedded Machine Learning",
+        "category": "Programming",
+        "topic": "Python",
+        "instructor": "Shawn Hymel",
+        "duration": "1 Months",
+        "fee": 89,
+        "description": "Computer vision (CV) is a fascinating field of study that attempts to automate the process of assigning meaning to digital images or videos. In other words, we are helping computers see and understand the world around us! A number of machine learning (ML) algorithms and techniques can be used to accomplish CV tasks, and as ML becomes faster and more efficient, we can deploy these techniques to embedded systems.This course, offered by a partnership among Edge Impulse, OpenMV, Seeed Studio, and the TinyML Foundation, will give you an understanding of how deep learning with neural networks can be used to classify images and detect objects in images and videos. You will have the opportunity to deploy these machine learning models to embedded systems, which is known as embedded machine learning or TinyML.",
+        "img": "https://i.imgur.com/V6uxcpY.jpeg"
+    },
+    {
+        "key": 7,
+        "name": "Machine Learning",
+        "category": "Programming",
+        "topic": "Python",
+        "instructor": "Andrew Ng",
+        "duration": "2 Months",
+        "fee": 95,
+        "description": "Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI. In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself. More importantly, you'll learn about not only the theoretical underpinnings of learning, but also gain the practical know-how needed to quickly and powerfully apply these techniques to new problems. Finally, you'll learn about some of Silicon Valley's best practices in innovation as it pertains to machine learning and AI.",
+        "img": "https://cdn-gcp.marutitech.com/wp-media/2016/10/a6c3baa2-8-problems-that-can-be-easily-solved-by-machine-learning-1.jpg"
+    },
+    {
+        "key": 8,
+        "name": "Competitive Programming for Beginners",
+        "category": "Programming",
+        "topic": "C, C++",
+        "instructor": "Filipp Rukhovich",
+        "duration": "2 Months",
+        "fee": 125,
+        "description": "This online course will help you to join the world of competitive programming and even become worldwide competitions participant! The course includes theoretical and practical aspects that are necessary to solve problems of any difficulties.After this course, you will learn what types of problems you will have to solve at the competitions, what is the effective program, how to estimate the algorithms efficiency, how to use basic algorithms and ideas during the problems solution. You will also learn how to submit your solution to the testing system.",
+        "img": "https://miro.medium.com/max/579/1*lI0nR91pNegb9mwLmgNgQQ.png"
+    },
+    {
+        "key": 9,
+        "name": "Computational Thinking for Problem Solving",
+        "category": "Programming",
+        "topic": "Python",
+        "instructor": "Susan Davidson",
+        "duration": "1 Months",
+        "fee": 45,
+        "description": "Computational thinking is the process of approaching a problem in a systematic manner and creating and expressing a solution such that it can be carried out by a computer.  But you don't need to be a computer scientist to think like a computer scientist!  In fact, we encourage students from any field of study to take this course.  Many quantitative and data-centric problems can be solved using computational thinking and an understanding of computational thinking will give you a foundation for solving problems that have real-world, social impact. In this course, you will learn about the pillars of computational thinking, how computer scientists develop and analyze algorithms, and how solutions can be realized on a computer using the Python programming language.  By the end of the course, you will be able to develop an algorithm and express it to the computer by writing a simple Python program. ",
+        "img": "https://www.researchgate.net/publication/333826796/figure/fig1/AS:770829965082628@1560791593890/The-elements-of-computational-thinking.jpg"
+    },
+    {
+        "key": 10,
+        "name": "Data Analysis with R Programming",
+        "category": "Programming",
+        "topic": "R",
+        "instructor": "John Doe",
+        "duration": "3 Months",
+        "fee": 140,
+        "description": "This course is the seventh course in the Google Data Analytics Certificate. These courses will equip you with the skills needed to apply to introductory-level data analyst jobs. In this course, you’ll learn about the programming language known as R. You’ll find out how to use RStudio, the environment that allows you to work with R. This course will also cover the software applications and tools that are unique to R, such as R packages. You’ll discover how R lets you clean, organize, analyze, visualize, and report data in new and more powerful ways.  Current Google data analysts will continue to instruct and provide you with hands-on ways to accomplish common data analyst tasks with the best tools and resources.",
+        "img": "https://miro.medium.com/max/1200/1*PKXC0FeXQc5LVmqhJ8HnVg.png"
+    }
+]

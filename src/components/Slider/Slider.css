@@ -1,0 +1,15 @@
+.slider-bg{
+
+        background-image: url(../../images/hero-bg.PNG);
+        height: 90vh;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+ 
+}
+.slider-details h1{
+    font-size: 75px;
+    padding-top: 40px;
+    color: #234262;
+    font-family: 'Lobster', cursive;
+}

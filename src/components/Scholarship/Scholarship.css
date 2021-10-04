@@ -1,0 +1,41 @@
+.scholarship{
+    background-color: #F8FAFE;
+    padding: 80px 0px;
+}
+.scholarship-box1{
+    background-color: #EBB830;
+    border-radius: 10px;
+}
+.scholarship-box2{
+    background-color: #317BD6;
+    border-radius: 10px;
+}
+.scholarship-box3{
+    background-color: #1FC2D9;
+    border-radius: 10px;
+}
+.scholarship-left-icon1{
+    color: #EBB830;
+    font-size: 25px;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 50%;
+}
+.scholarship-left-icon2{
+    color: #317BD6;
+    font-size: 25px;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 50%;
+}
+.scholarship-left-icon3{
+    color: #1FC2D9;
+    font-size: 25px;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 50%;
+}
+.scholarship-right{
+    color: white;
+    padding: 25px 15px;
+}

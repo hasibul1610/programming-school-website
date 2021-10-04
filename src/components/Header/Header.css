@@ -1,0 +1,20 @@
+
+.header-logo{
+    font-size: 36px;
+    font-weight: 700;
+    color: #234262 !important;
+    font-family: 'Pacifico', cursive;
+
+}
+.btn-main{
+    background-color: #234262;
+    color: white;
+    padding: 10px 40px;
+    border: 1px solid #234262;
+    font-size: 16px;
+}
+.btn-main:hover{
+    border: 1px solid #234262;
+    color: #234262;
+    background-color: transparent;
+}

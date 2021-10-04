@@ -1,0 +1,22 @@
+.footer{
+    background-color: #232637;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.footer-top-left h2{
+color: white;
+margin-bottom: 20px;
+}
+
+.subscribe-btn{
+    color: white;
+    background-color: #EBB830;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 20px;
+}
+
+.footer-top-right h2{
+    color: white;
+    margin-bottom: 20px;
+}
